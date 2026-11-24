@@ -5,7 +5,7 @@
 
 High-fidelity HTML metadata auditor evaluating title dimensions, description relevancy, Open Graph imagery, and robot crawling headers.
 
-Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT USA**.
+Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT**.
 
 ***
 
@@ -48,7 +48,7 @@ For live metadata audits and search snippet simulations:
 
 ## Technical SEO and Metadata Advisory
 
-For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **TAVARDT USA**.
+For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **TAVARDT**.
 
 ***
 
