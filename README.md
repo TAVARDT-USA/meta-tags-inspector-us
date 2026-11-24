@@ -1,4 +1,4 @@
-# Meta Tags and Open Graph Inspector | TAVARDT USA
+# Meta Tags and Open Graph Inspector
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/meta-tags-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For live metadata audits and search snippet simulations:
 ## Technical SEO and Metadata Advisory
 
 For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **TAVARDT USA**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
