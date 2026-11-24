@@ -1,14 +1,13 @@
 # Meta Tags and Open Graph Inspector | TAVARDT USA
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/meta-tags-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20States-00C853.svg)](https://ag.tavardt.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 High-fidelity HTML metadata auditor evaluating title dimensions, description relevancy, Open Graph imagery, and robot crawling headers.
 
-Engineered and maintained by the digital performance and search engine engineering practice at **[TAVARDT USA](https://ag.tavardt.com/)**.
+Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT USA**.
 
----
+***
 
 ## Metadata and Social Card Audit Capabilities
 
@@ -18,7 +17,7 @@ Engineered and maintained by the digital performance and search engine engineeri
 * **Crawler and Indexing Directives**: Audits meta robots instructions and canonical URL declarations.
 * **Snippet Excellence Benchmark**: Reproducible 0 to 100 rating with precise technical optimization guidance.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python meta_inspector.py example.com
 For programmatic evaluation in JSON format:
 
 ```bash
-python meta_inspector.py example.com --json
+python meta_inspector.py example.com -json
 ```
 
----
+***
 
 ## Online Diagnostic Platform
 
 For live metadata audits and search snippet simulations:
 
-* **[Official Meta Tags Inspector](https://tools.tavardt.com/meta-tags-checker/)**
-* **[TAVARDT Corporate Portal](https://ag.tavardt.com/)**
+* **Official Meta Tags Inspector**
+* **TAVARDT Corporate Portal**
 
----
+***
 
 ## Technical SEO and Metadata Advisory
 
-For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **[TAVARDT USA](https://ag.tavardt.com/contact/)**.
+For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **TAVARDT USA**.
