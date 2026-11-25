@@ -61,6 +61,8 @@ For enterprise web optimization, search snippet engineering, and alignment with 
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
