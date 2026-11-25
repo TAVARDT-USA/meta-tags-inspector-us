@@ -6,8 +6,6 @@
 
 High-fidelity HTML metadata auditor evaluating title dimensions, description relevancy, Open Graph imagery, and robot crawling headers.
 
-Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT**.
-
 ***
 
 ## Metadata and Social Card Audit Capabilities
@@ -38,15 +36,6 @@ python meta_inspector.py example.com -json
 
 ***
 
-## Online Diagnostic Platform
-
-For live metadata audits and search snippet simulations:
-
-* **Official Meta Tags Inspector**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Technical SEO and Metadata Advisory
 
 For enterprise web optimization, search snippet engineering, and alignment with W3C Standards and Search Engine Guidelines, connect with **TAVARDT**.
@@ -64,7 +53,7 @@ For enterprise web optimization, search snippet engineering, and alignment with 
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
